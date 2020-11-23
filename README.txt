@@ -2,9 +2,9 @@
 Locale Projekt mit repo in github verbinden
 "git remote add origin (COPIERE SSH LINK ODER HTTPS)"
 Schritte
-1: git init
-2: erstelle neue datei lokal
-3: erstelle neue repo in git hub
+1: erstelle neue datei lokal
+2: erstelle neue repo in git hub
+3: git init (Lokal )
 4: verbinde mit oben genante code 
 5: folge schritte unten
 6: von unten die 4 mit git push -u origin master ersetzen.
