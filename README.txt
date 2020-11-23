@@ -11,7 +11,7 @@ Schritte
    das -u sorgt dafür das ich nur noch git push schreiben mus
 
 
-So die Schritte sind:
+So die Schritte sind:git 
 1: git status
 2:git add . (tut alle Änderungen Local updaten)
 3: git commit -m "Kommentar" -m "Genaue Erklärung"
