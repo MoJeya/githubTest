@@ -15,5 +15,7 @@ So die Schritte sind:git
 1: git status
 2:git add . (tut alle Änderungen Local updaten)
 3: git commit -m "Kommentar" -m "Genaue Erklärung"
+3.5: (Nur einemal, dannach kann es übersprungen werden) 
+     git pull -rebase origin main
 4: git push origin main (lädt die files in dem jeingen github Repo)
 
