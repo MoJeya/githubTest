@@ -4,7 +4,7 @@ Locale Projekt mit repo in github verbinden
 Schritte
 1: erstelle neue datei lokal
 2: erstelle neue repo in git hub
-3: git init (Lokal )
+3: git init (Lokal ) :)
 4: verbinde mit oben genante code 
 5: folge schritte unten
 6: von unten die 4 mit git push -u origin master ersetzen.
